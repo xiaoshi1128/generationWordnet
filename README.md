@@ -1,5 +1,7 @@
 # generationWordnet
-Generalization tree by using wordnet   
+Automatic generating Generalization Tree by using wordnet.
+Refer to this paper----> 《Automatic generation of concept hierarchies using WordNet》
+
 First you should install WordNet and some jar files that you need.
 
 
